@@ -322,6 +322,10 @@
     font-size: 30px;  
   }
 
+#portfolio {
+  margin-top: 10%;
+}
+  
   #contact {
     margin: auto;
   }
