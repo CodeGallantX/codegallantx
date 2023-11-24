@@ -238,7 +238,7 @@
 
     /*What I Do*/
    #what-i-do {
-      height: 280vh;
+      height: 300vh;
       padding-left: 5%;
       padding-top: 30px;
      padding-right: 10%;
@@ -322,10 +322,6 @@
     font-size: 30px;  
   }
 
-#portfolio {
-  margin-top: 10%;
-}
-  
   #contact {
     margin: auto;
   }
