@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeGallantX&icon=3&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy me a coffee
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codegallantx) 
 
   
