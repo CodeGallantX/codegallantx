@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm John Samuel, a dedicated web developer focused on creating impactful web solutions.<br>🔭 Currently working on projects integrating web technologies and AI<br>🌱 Powering through React, Next.js, Tailwind CSS, and Django<br>💼 Committed to crafting sleek and user-friendly web experiences<br>💡 Passionate about tackling complex challenges and advancing tech<br>🌐 Always open to collaboration—let’s connect and innovate together!
+👋 Hi, I'm John Samuel, a dedicated full-stack web developer focused on creating impactful web solutions.<br>🔭 Currently working on projects integrating web technologies and AI<br>🌱 Powering through React, Next.js, Tailwind CSS, and Django<br>💼 Committed to crafting sleek and user-friendly web experiences<br>💡 Passionate about tackling complex challenges and advancing tech<br>🌐 Always open to collaboration—let’s connect and innovate together!
 
 
 ## 🌐 Socials:
